@@ -10,21 +10,3 @@
 <h1>Faça um Programa que peça dois números e imprima o maior deles</h1>
 <?php
 
-
-$n1 = 200;
-$n2 = 30;
-
-if($n1 > $n2){
-   echo $n1;
-}else{
-    echo $n2;
-}
-
-
-
-
-
-
-
-
-?>
